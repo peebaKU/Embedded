@@ -1,0 +1,10 @@
+../Core/Src/main.c:69:8:ln	1
+../Core/Src/main.c:73:5:__io_putchar	1
+../Core/Src/main.c:79:7:ComputeTemperature	1
+../Core/Src/main.c:96:5:main	1
+../Core/Src/main.c:157:6:SystemClock_Config	4
+../Core/Src/main.c:218:13:MX_ADC1_Init	3
+../Core/Src/main.c:276:13:MX_I2C1_Init	4
+../Core/Src/main.c:324:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:359:13:MX_GPIO_Init	1
+../Core/Src/main.c:398:6:Error_Handler	1
